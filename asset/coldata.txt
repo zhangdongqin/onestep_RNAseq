@@ -1,0 +1,9 @@
+sample	condition
+1N	normal
+1T	turmor
+2T	turmor
+3N	normal
+3T	turmor
+4N	normal
+5N	normal
+5T	turmor
